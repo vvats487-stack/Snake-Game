@@ -14,12 +14,6 @@ A classic Snake Game built using HTML, CSS, and JavaScript. This project demonst
 - CSS
 - JavaScript
 
-## 📸 Preview
-(Add your screenshot here)
-
-## 🔗 Live Demo
-(Add your live link here)
-
 ## 📚 Learning
 This project helped me improve my understanding of:
 - DOM manipulation
